@@ -1,0 +1,52 @@
+[
+    {
+        "name_th": "เจษฎาพร ไตรวินิจศรีสุข",
+        "name_en": "Chetsadaporn Traivinidsreesuk",
+        "id": 61070028,
+        "github": "https://github.com/hashtagSELFIE",
+        "facebook": "https://www.facebook.com/james2543",
+        "ig": "https://www.instagram.com/james555433/",
+        "path": "./assets/developer/profile1.jpg",
+        "role": "Quiz design & develop"
+    },
+    {
+        "name_th": "ฉัตรธิดา แจ้งใจ",
+        "name_en": "Chattida Jangjai",
+        "id": 61070029,
+        "github": "https://github.com/chattida",
+        "facebook": "https://www.facebook.com/chattida.newwy",
+        "ig": "https://www.instagram.com/nipnew/",
+        "path": "./assets/developer/profile2.jpg",
+        "role": "Data collection, Web design"
+    },
+    {
+        "name_th": "ชาญวิทย์ เศรษฐวงศ์สิน",
+        "name_en": "Chanwit Settavongsin",
+        "id": 61070040,
+        "github": "https://github.com/max180643",
+        "facebook": "https://www.facebook.com/Chanwit.Settavongsin",
+        "ig": "https://www.instagram.com/max180643/",
+        "path": "./assets/developer/profile3.jpg",
+        "role": "Web develop, Web design"
+    },
+    {
+        "name_th": "ณภัทร อารยวัฒนาพงษ์",
+        "name_en": "Napat Arayawattanapong",
+        "id": 61070045,
+        "github": "https://github.com/NAPATKRUP",
+        "facebook": "https://www.facebook.com/napat.arayawattanapong",
+        "ig": "https://www.instagram.com/napat_ar/",
+        "path": "./assets/developer/profile4.jpg",
+        "role": "Web develop, Web design"
+    },
+    {
+        "name_th": "ระพีพันธ์ มูนไทย",
+        "name_en": "Rapeepan Moonthai",
+        "id": 61070181,
+        "github": "https://github.com/rapeeza1598",
+        "facebook": "https://www.facebook.com/rapeeza1598",
+        "ig": "https://www.instagram.com/rapeekhung/",
+        "path": "./assets/developer/profile5.jpg",
+        "role": "Data collection"
+    }
+]
